@@ -4,7 +4,7 @@
   <a href="https://standardjs.com"><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg" alt="Standard - \Matlab Style Guide"></a>
 
 <p align="center">
- <img src="https://github.com/ISorokos/SafeML/blob/master/SafeML_o.png" alt="SafeML_go"> </p>
+ <img src="https://github.com/koo-ec/Hierarchical-Dynamic-Fault-Tree/blob/master/Pictures/HDFT_Logo.png" alt="HDFT_Logo"> </p>
  
 # Hierarchical Dynamic Fault Tree
 A Semi-Markov Process-based Hierarchical Solution for Dynamic Fault Trees
