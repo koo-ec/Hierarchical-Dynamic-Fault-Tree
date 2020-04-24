@@ -14,3 +14,6 @@ A Semi-Markov Process-based Hierarchical Solution for Dynamic Fault Trees
 
 ## Publication
 <p align="justify"> <b>Aslansefat, Koorosh</b>, & Latif-Shabgahi, G. R. (2019). <b>A Hierarchical Approach for Dynamic Fault Trees Solution through Semi-Markov Process</b>. IEEE Transactions on Reliability. [<a href="https://doi.org/10.1109/TR.2019.2923893">DOI: 10.1109/TR.2019.2923893</a>]
+ 
+## License
+Hierarchical Dynamic Fault Tree (HDFT) framework is available under an MIT License. 
