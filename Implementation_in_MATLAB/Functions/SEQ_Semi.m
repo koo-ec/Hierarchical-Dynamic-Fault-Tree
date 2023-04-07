@@ -3,7 +3,7 @@ function Q = SEQ_Semi(F1, F2, F3)
 % Program Name : Semi-Markov Analysis                                     %
 % Author       : Koorosh Aslansefat                                       %
 % Version      : 1                                                        %
-% Description  : Solve PAND Systems by means of Semi-Markov Model         %
+% Description  : Solve Three-Input SEQ Gate using Semi-Markov Process     %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 syms s t T
